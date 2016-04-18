@@ -1,4 +1,4 @@
-**git setup: **
+git setup: 
   sudo apt-get install git-core openssh-server openssh-client
   sudo apt-get install git-core git-gui git-doc
   sudo apt-get install libcurl4-gnutls-dev libexpat1-dev gettext libz-dev git-core
