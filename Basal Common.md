@@ -30,4 +30,4 @@
      
 #####Install nodejs:
   1.view the command on nodejs website and type in terminal
-  2.switch in the folder which is current project and type **npm install
+  2.switch in the folder which is current project and type **npm install**
